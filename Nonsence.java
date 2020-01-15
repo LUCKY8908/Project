@@ -1,3 +1,4 @@
-Demo{
+Test{
+  int i=10;
 
 }
